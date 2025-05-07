@@ -64,7 +64,7 @@
 *Modern interface with update status, game presets, and launch controls.*
 
 **⚙️ Optimization Profile Selector**  
-![Optimization Panel](https://www.allkeyshop.com/blog/wp-content/uploads/Escape-from-Tarkov-Steam.webp)  
+![Optimization Panel](https://gaming-cdn.com/images/news/articles/6086/cover/the-escape-from-tarkov-community-complains-about-eur250-pay-to-win-dlc-cover662ab55f44cda.jpg)  
 *Choose performance presets or configure settings manually.*
 
 **📂 Modular Install Manager**  
